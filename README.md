@@ -1,22 +1,30 @@
 # Neural Machine Translation using MarianMT
 
-A Streamlit-based **Neural Machine Translation (NMT)** application that translates English text into French using the pre-trained **Helsinki-NLP/opus-mt-en-fr** MarianMT model from Hugging Face Transformers. The project demonstrates how state-of-the-art Natural Language Processing models can be deployed through a simple and interactive web interface.
+A Streamlit-based **Neural Machine Translation (NMT)** application that translates English text into French using the pre-trained **Helsinki-NLP/opus-mt-en-fr** MarianMT model from Hugging Face Transformers. This project demonstrates how state-of-the-art Natural Language Processing (NLP) models can be deployed through an interactive and user-friendly web interface.
 
 ---
 
-## Features
+## 🌐 Quick Links
 
-- 🌍 English to French Translation
+- **🚀 Live Demo:** https://neural-machine-translation-version1.streamlit.app/
+- **💻 GitHub Repository:** https://github.com/JAIKRISHNA2007/Neural-Machine-Translation
+- **🎥 Demo Video:** https://drive.google.com/drive/folders/1DK89HskWys5jNu7a_qcL8tAws8uo8aAw?usp=drive_link
+
+---
+
+## ✨ Features
+
+- 🌍 English to French Neural Machine Translation
 - 🤖 Powered by MarianMT (Helsinki-NLP/opus-mt-en-fr)
-- ⚡ Fast model loading using caching
-- 🎨 Interactive Streamlit web interface
-- 📝 Clean and responsive user interface
+- ⚡ Fast model loading using Streamlit caching
+- 🎨 Interactive and responsive Streamlit web interface
+- 📝 Clean and modern user interface
 - ✅ Error handling for invalid inputs
-- 🚀 No training or fine-tuning required
+- 🚀 Uses pre-trained models without additional training
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3.11
 - Streamlit
@@ -27,7 +35,7 @@ A Streamlit-based **Neural Machine Translation (NMT)** application that translat
 
 ---
 
-## Installation
+## 🚀 Installation
 
 Clone the repository:
 
@@ -36,7 +44,7 @@ git clone https://github.com/JAIKRISHNA2007/Neural-Machine-Translation.git
 cd Neural-Machine-Translation
 ```
 
-Install dependencies:
+Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -50,7 +58,7 @@ streamlit run app.py
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 Neural-Machine-Translation/
@@ -68,19 +76,17 @@ Neural-Machine-Translation/
 
 ---
 
-## Demo
+## 💡 Example
 
-Enter English text and click **Translate to French** to generate the translated output.
+Enter English text and click **Translate to French**.
 
-### Example
-
-**Input**
+### Input
 
 ```text
 Hi, nice to meet you.
 ```
 
-**Output**
+### Output
 
 ```text
 Bonjour, ravi de vous rencontrer.
@@ -88,39 +94,49 @@ Bonjour, ravi de vous rencontrer.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-![Home](images/home.png)
+![Home Page](images/home.png)
 
-### Translation Result
+### 🌍 Translation Result
 
-![Result](images/result.png)
+![Translation Result](images/result.png)
 
 ---
 
-## Future Improvements
+## 🎥 Demo Video
+
+Watch the complete project demonstration here:
+
+**Google Drive:**  
+https://drive.google.com/drive/folders/1DK89HskWys5jNu7a_qcL8tAws8uo8aAw?usp=drive_link
+
+---
+
+## 🌱 Future Improvements
 
 - 🌐 Support multiple language pairs
 - 🎤 Voice-to-text translation
 - 📄 Document translation (PDF, DOCX, TXT)
 - 📜 Translation history
-- ☁️ FastAPI backend for deployment
+- ☁️ FastAPI backend deployment
 - 🔊 Text-to-Speech output
+- 📱 Mobile-friendly interface
 
 ---
 
-## Internship Information
+## 💼 Internship Information
 
 This project was developed as part of the **AI Internship** at **Codtech IT Solutions Private Limited**.
 
-- **Intern ID:** CTTSI62
+- **Intern ID:** CTTS162
 - **Intern:** JAI KRISHNA S
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **JAI KRISHNA S**
 
@@ -128,6 +144,6 @@ GitHub: https://github.com/JAIKRISHNA2007
 
 ---
 
-## License
+## 📄 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
