@@ -8,7 +8,7 @@ A Streamlit-based **Neural Machine Translation (NMT)** application that translat
 
 - **🚀 Live Demo:** https://neural-machine-translation-version1.streamlit.app/
 - **💻 GitHub Repository:** https://github.com/JAIKRISHNA2007/Neural-Machine-Translation
-- **🎥 Demo Video:** https://drive.google.com/drive/folders/1DK89HskWys5jNu7a_qcL8tAws8uo8aAw?usp=drive_link
+- **🎥 Demo Video:** https://drive.google.com/file/d/1C7ASdQ1xoBXQxXNVUK1Uy0VVvlhvKia6/view?usp=drive_link
 
 ---
 
@@ -111,7 +111,7 @@ Bonjour, ravi de vous rencontrer.
 Watch the complete project demonstration here:
 
 **Google Drive:**  
-https://drive.google.com/drive/folders/1DK89HskWys5jNu7a_qcL8tAws8uo8aAw?usp=drive_link
+https://drive.google.com/file/d/1C7ASdQ1xoBXQxXNVUK1Uy0VVvlhvKia6/view?usp=drive_link
 
 ---
 
